@@ -1,6 +1,3 @@
-# Birthday-wish
-
-
 # 🎂 Birthday 3D Website
 
 A personal interactive birthday website created as a creative web development project.
