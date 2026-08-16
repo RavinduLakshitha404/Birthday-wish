@@ -22,5 +22,6 @@ This project was created as both a **personal birthday gift** and a way to pract
 👨‍💻 Author
 
 **A.A. Ravindu Lakshitha**
+
 Software Engineering Student
 
